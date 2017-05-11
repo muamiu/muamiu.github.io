@@ -1,0 +1,14 @@
+
+#fp-nav ul li:first-child, #fp-nav ul li:last-child { display: none;}
+
+.header{
+    background-color: rgba(160, 202, 180, 0.63);
+}
+
+.banner{
+    background-color: rgba(160, 202, 584, 0.63)
+}
+
+.content{
+    background-color: rgba(160, 202, 140, 0.63)
+}
